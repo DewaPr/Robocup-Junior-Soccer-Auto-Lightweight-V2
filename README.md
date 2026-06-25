@@ -11,7 +11,10 @@ The RoboCup Soccer Auto LightWeight V2 is a high-speed, fully autonomous soccer 
 ##  Match Highlights & Testing
 
 Check out the robot's dynamic performance during the RoboCup Malay Regional matches and our high-speed lab testing sessions:
+# RoboCup Highlights
 [![RoboCup Highlights](./Images/Match%20Tubnail.jpeg)](https://drive.google.com/file/d/1jBLn-xqyJGWdrelZajv76mLIV3Pv5ss4/view?usp=drive_link)
+
+# Solenoid and Ball Backspin Control
 [![Solenoid and Ball Backspin Control](./Images/Shoot%20Tubnail.jpeg)](https://drive.google.com/file/d/1ghSHrVGV2VAAAy8IgdZurh89m6u4_ynl/view?usp=drive_link)
 
 *(Click the image above to watch the video)*
